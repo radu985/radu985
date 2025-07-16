@@ -4,7 +4,6 @@
 <a href="https://www.warpcast.com/codingsh"><img src="https://img.shields.io/badge/farcaster-8A2BE2" /></a>
 
 <div align="center">
-  <img src="https://www.reactiongifs.com/r/prthrd.gif" width="240px">
 
   *Embarking on a journey through the digital cosmos, I am a seasoned developer with a penchant for unraveling the enigmas of the universe. My quest? To architect solutions that transcend the ordinary and redefine the possible.*
 

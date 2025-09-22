@@ -80,8 +80,7 @@ Behold the cutting-edge technologies at my command:
 
 ## 📡 Establish Contact
 
-- [Twitter: Transmit on the Cosmic Web](https://twitter.com/codingsh)
-- [Email: Send an Intergalactic Message](mailto:codingsh@pm.me)
+- [Email: Send an Intergalactic Message](rcamelia301@gmail.com)
 - [GitHub: Explore My Code Repositories](https://github.com/developerfred)
 
 ---

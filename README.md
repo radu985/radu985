@@ -80,7 +80,7 @@ Behold the cutting-edge technologies at my command:
 
 ## 📡 Establish Contact
 
-- [Email: Send an Intergalactic Message](rcamelia301@gmail.com)
+- [Email: Send an Intergalactic Message](https://gmail.com/rcamelia301@gmail.com)
 - [GitHub: Explore My Code Repositories](https://github.com/developerfred)
 
 ---

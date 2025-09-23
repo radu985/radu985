@@ -3,7 +3,7 @@
 <br>
 <br>
 <div align="center">
-    <p>
+    <p style="color:blue;">
      I'm a Senior Full Stack, Mobile, and Blockchain Developer 5 years of hands-on experience delivering scalable, secure, and high-performance solutions. My expertise spans across web,         mobile,   and decentralized applications, allowing me to build end-to-end system that integrate modern technologies seamlessly.</br>
     ✈Always open to challenging projects that push the limits of technology <i style="color:blue;">Radu Camelia</i>
     </p>

@@ -3,7 +3,7 @@
 <br>
 <br>
 <div align="center">
-<a href="https://github.com/zentrix-x?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=zentrix-x&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@bearjobsniper's trophy stats"/></a>
+<a href="https://github.com/zentrix-x?tab=achievements"><img src="https://w3-start.onrender.com/?username=zentrix-x&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@bearjobsniper's trophy stats"/></a>
 </div>
 
 <br>
@@ -27,9 +27,9 @@
 <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge" />
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-100000?style=for-the-badge&logo=unity&logoColor=white" />
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
-<img src="https://img.shields.io/badge/Solana-00DC8E?style=for-the-badge&logo=solana&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-00DC8E?style=for-the-badge&logo=solana&logoColor=white" />
 <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" />
 <img src="https://img.shields.io/badge/Sui-000000?style=for-the-badge&logo=sui&logoColor=white" />
 <img src="https://img.shields.io/badge/NFT-FF007A?style=for-the-badge&logo=nft&logoColor=white" />

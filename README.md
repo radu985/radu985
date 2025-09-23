@@ -10,5 +10,5 @@
 </div>
 
 <div align="center">
-  <i>"The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself." - Carl Sagan</i>
+  <i>"The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself." -<a ref=""> Radu Camelia</a></i>
 </div>

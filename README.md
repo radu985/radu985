@@ -5,7 +5,7 @@
 <div align="center">
     <p style="color:blue;">
      I'm a Senior Full Stack, Mobile, and Blockchain Developer 5 years of hands-on experience delivering scalable, secure, and high-performance solutions. My expertise spans across web,         mobile,   and decentralized applications, allowing me to build end-to-end system that integrate modern technologies seamlessly.</br>
-    ✈Always open to challenging projects that push the limits of technology <i style="color:blue;">Radu Camelia</i>
+    ✈Always open to challenging projects that push the limits of technology. ✨ <i>Radu Camelia</i>✨
     </p>
 </div>
 
@@ -25,11 +25,11 @@
 <div align="center">
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
 <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.%20Studio%20Cjs-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge" />
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-100000?style=for-the-badge&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/React-100000?style=for-the-badge&logo=unity&logoColor=white" />
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-00DC8E?style=for-the-badge&logo=solana&logoColor=white" />
 <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" />

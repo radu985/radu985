@@ -1,9 +1,12 @@
-## Hi there 👋
+## Hi there 👋 💻 Senior Full-Stack Web Developer && Python experter
 
 <br>
 <br>
 <div align="center">
-<a href="https://github.com/zentrix-x?tab=achievements"><img src="https://w3-start.onrender.com/?username=zentrix-x&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@bearjobsniper's trophy stats"/></a>
+    <p>
+     I'm a Senior Full Stack, Mobile, and Blockchain Developer 5 years of hands-on experience delivering scalable, secure, and high-performance solutions. My expertise spans across web,         mobile,   and decentralized applications, allowing me to build end-to-end system that integrate modern technologies seamlessly.</br>
+    ✈Always open to challenging projects that push the limits of technology <i style="color:blue;">Radu Camelia</i>
+    </p>
 </div>
 
 <br>
@@ -14,8 +17,7 @@
 </div>
 
 <div align="center">
- <a href="https://github.com/zentrix-x?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=zentrix-x&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@zentrix-x's github-readme-stats"/></a>
- <a href="https://github.com/zentrix-x?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=zentrix-x&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@zentrix-x's github-readme-streak-stats"/></a>
+
 </div>
 
 ## 🛠️ Languages & Tools

@@ -4,7 +4,7 @@
 <br>
 <div align="center">
     <p style="color:blue;">
-     I'm a Senior Full Stack, Mobile, and Blockchain Developer 5 years of hands-on experience delivering scalable, secure, and high-performance solutions. My expertise spans across web,         mobile,   and decentralized applications, allowing me to build end-to-end system that integrate modern technologies seamlessly.</br>
+     As a senior developer in full-stack, mobile, and blockchain, I have hands-on experience delivering scalable, secure, and high-performance solutions. With expertise across web, mobile, and decentralized applications, I can build end-to-end systems that seamlessly integrate the latest technologies.</br>
     ✈Always open to challenging projects that push the limits of technology. ✨ <i>Radu Camelia</i>✨</br>
        <i aligin="center"> 😎Contact ME: ❤️Gmail 🌠: rcamelia301@gmail.com ❤️Telegram 🌠: @DreadmireVortex ❤️ Discord 🌠: camelia83_42353 </i>
     </p>
